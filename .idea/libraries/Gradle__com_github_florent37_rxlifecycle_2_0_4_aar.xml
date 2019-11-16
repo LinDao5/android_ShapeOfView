@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:rxlifecycle:2.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rxlifecycle-2.0.4.aar/8b7694152fa70223982ae5c912b27dff/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rxlifecycle-2.0.4.aar/8b7694152fa70223982ae5c912b27dff/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.florent37/rxlifecycle/2.0.4/a5d6b18ce84a887af006b26c75c6133beec5cd5f/rxlifecycle-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
