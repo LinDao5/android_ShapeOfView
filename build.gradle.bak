@@ -36,6 +36,7 @@ ext{
     MIN_SDK = 14
     sourceCompatibilityVersion = JavaVersion.VERSION_1_8
     targetCompatibilityVersion = JavaVersion.VERSION_1_8
+    targetCompatibilityVersion = JavaVersion.VERSION_1_8
 
     libraryVersion = "1.4.7"
 }
