@@ -27,7 +27,7 @@ public class TabIndicatorFollower {
         this.tabLayout.addScrollListener(scrollListener);
         this.tabLayout.addOnAddedToViewPagerListener(onAddedToViewPager);
         return this;
-    }
+    }dd
 
     public TabIndicatorFollower setIndicatorView(View view){
         this.indicatorView = view;
