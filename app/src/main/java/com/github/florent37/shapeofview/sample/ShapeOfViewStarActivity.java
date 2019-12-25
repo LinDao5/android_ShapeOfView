@@ -10,3 +10,4 @@ public class ShapeOfViewStarActivity extends AppCompatActivity {
         setContentView(R.layout.shape_of_view_activity_star);
     }
 }
+ddd
